@@ -1,5 +1,14 @@
 ## ¡Hi there 👋!
 
+
+<div>
+<a href="#" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
+<a href="#" target="_blank"><img src='./images/twitter.svg' alt='Twitter' width="3%" title=''></a>
+<a href="#" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a>
+
+![](https://komarev.com/ghpvc/?username=Osnayder&color=green)
+</div>
+
 <small>I am from colombia</small>
 <small>I am an self-taught people and systems engineering student at the <strong>Corporación Universitaria del Caribe (CECAR)</strong></small><br>
 <small>My knowledge is related to the following technologies:</small>
