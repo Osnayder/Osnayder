@@ -1,7 +1,7 @@
 ## ¡Hi there 👋!
 
 <small>I am from colombia</small>
-<small>I am an self-taught people and systems engineering student at the <strong>Corporacion Univeristaria del Caribe (CEACR)</strong></small>
+<small>I am an self-taught people and systems engineering student at the <strong>Corporación Universitaria del Caribe (CECAR)</strong></small><br>
 <small>My knowledge is related to the following technologies:</small>
 
 ### Frontend Technologies
@@ -19,23 +19,14 @@
 <div>
   <img src ="./images/nodejs.svg" alt="Node logo" width="8%" title='Nodejs'/>
   <img src ="./images/express.svg" alt="express logo" width="8%" title='Express'/>
-  <img src ="./images/mongodb.svg" alt="D3 logo" width="8%" title='MongoDB'/>
   <img src ="./images/mysql.svg" alt="mysql logo" width="8%" title='MYSQL'/>
-  <img src ="./images/sqlite.svg" alt="sqlite logo" width="8%" title='sqlite'/>
-  <img src ="./images/python.svg" alt="Python logo" width="8%" title='Python'/>
-  <img src ="./images/flask.svg" alt="Flask logo" width="8%" title='Flask'/>
-  <img src ="./images/django.svg" alt="Django logo" width="8%" title='Django'/>
 </div>
 
 ### Tools
 
 <div>
-  <img src ="./images/figma.svg" alt="Figma logo" width="8%" title='Figma'/>
   <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="8%" title='Visual Studio Code'/>
   <img src ="./images/git.svg" alt="Git logo" width="8%" title='Git'/>
-  <img src ="./images/eslint.svg" alt="ESLint logo" width="8%" title='ESLint'/>
-  <img src ="./images/webpack.svg" alt="Webpack logo" width="8%" title='Webpack'/>
-  <img src ="./images/nodemon.svg" alt="Nodemon logo" width="8%" title='Nodemon'/> 
 </div>
 
 <!--
