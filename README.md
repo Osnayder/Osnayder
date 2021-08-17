@@ -1,4 +1,4 @@
-## ¡Hi there 👋!
+## ¡Hola 👋!
 
 
 <div>
@@ -9,9 +9,9 @@
 ![](https://komarev.com/ghpvc/?username=Osnayder&color=green)
 </div>
 
-<small>I am from colombia</small>
-<small>I am an self-taught people and systems engineering student at the <strong>Corporación Universitaria del Caribe (CECAR)</strong></small><br>
-<small>My knowledge is related to the following technologies:</small>
+<small>
+Soy estudiante apasionado por las ciencias y tecnologias, actualmente estudio ingeniería de sistemas.
+</small>
 
 ### Frontend Technologies
 
