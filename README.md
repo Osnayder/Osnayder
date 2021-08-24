@@ -5,19 +5,17 @@
 <a href="#" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
 <a href="#" target="_blank"><img src='./images/twitter.svg' alt='Twitter' width="3%" title=''></a>
 <a href="#" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a>
-
 ![](https://komarev.com/ghpvc/?username=Osnayder&color=green)
 </div>
 
-<small>
-Soy estudiante apasionado por las ciencias y tecnologias, actualmente estudio ingeniería de sistemas.
-</small>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Osnayder&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=Osnayder&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osnayder&langs_count=3&hide_title=true&hide_border=true" />
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osnayder&langs_count=3&hide_title=true&hide_border=true" />
 </a>
 
 
@@ -26,8 +24,8 @@ Soy estudiante apasionado por las ciencias y tecnologias, actualmente estudio in
 <div>
   <img src ="./images/html-5.svg" alt="HTML5 logo" width="4%" title='HTML5'/>
   <img src ="./images/css-3.svg" alt="CSS3 logo" width="4%" title='CSS3'/>
-  <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="6%" title='Bootstrap'/>
   <img src ="./images/javascript.svg" alt="JavaScript logo" width="6%" title='JavaScript'/>
+  <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="6%" title='Bootstrap'/>
   <img src ="./images/react.svg" alt="react logo" width="6%" title='React'/>
 </div>
 
@@ -35,13 +33,17 @@ Soy estudiante apasionado por las ciencias y tecnologias, actualmente estudio in
 
 <div>
   <img src ="./images/nodejs.svg" alt="Node logo" width="8%" title='Nodejs'/>
-  <img src ="./images/express.svg" alt="express logo" width="8%" title='Express'/>
-  <img src ="./images/mysql.svg" alt="mysql logo" width="8%" title='MYSQL'/>
+  <img src ="./images/java.svg" alt="Java logo" width="8%" title='Java'/>
+  <img src ="./images/express.svg" alt="Express logo" width="8%" title='Express'/>
+  <img src ="./images/mysql.svg" alt="MySql logo" width="8%" title='MYSQL'/>
+  <img src ="./images/mongodb.svg" alt="MongoBd logo" width="8%" title='MongoDB'/>
 </div>
 
 ### Tools
 
 <div>
+  <img src ="./images/eclipse.svg" alt="Eclipse logo" width="8%" title='Eclipse'/>
+  <img src ="./images/netbeans.svg" alt="Netbeans logo" width="8%" title='NetBeans'/>
   <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="8%" title='Visual Studio Code'/>
   <img src ="./images/git.svg" alt="Git logo" width="8%" title='Git'/>
 </div>
