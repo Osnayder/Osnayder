@@ -2,10 +2,9 @@
 
 
 <div>
-<a href="#" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
-<a href="#" target="_blank"><img src='./images/twitter.svg' alt='Twitter' width="3%" title=''></a>
-<a href="#" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a>
-![](https://komarev.com/ghpvc/?username=Osnayder&color=green)
+  <a href="#" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
+  <a href="#" target="_blank"><img src='./images/twitter.svg' alt='Twitter' width="3%" title=''></a>
+  <a href="#" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a>
 </div>
 
 
@@ -43,8 +42,8 @@
 
 <div>
   <img src ="./images/eclipse.svg" alt="Eclipse logo" width="8%" title='Eclipse'/>
-  <img src ="./images/netbeans.svg" alt="Netbeans logo" width="8%" title='NetBeans'/>
   <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="8%" title='Visual Studio Code'/>
+  <img src ="./images/netbeans.svg" alt="Netbeans logo" width="8%" title='NetBeans'/>
   <img src ="./images/git.svg" alt="Git logo" width="8%" title='Git'/>
 </div>
 
