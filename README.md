@@ -26,7 +26,7 @@
   <img src ="./images/javascript.svg" alt="JavaScript logo" width="6%" title='JavaScript'/>
   <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="6%" title='Bootstrap'/>
   <img src ="./images/react.svg" alt="React logo" width="6%" title='React'/>
-  <img src ="./images/angular.svg" alt="Angular logo" width="15%" title='Angular'/>
+  <img src ="./images/angular-icon.svg" alt="Angular logo" width="10%" title='Angular'/>
 </div>
 <br>
 
