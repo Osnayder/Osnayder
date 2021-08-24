@@ -25,9 +25,10 @@
   <img src ="./images/css-3.svg" alt="CSS3 logo" width="4%" title='CSS3'/>
   <img src ="./images/javascript.svg" alt="JavaScript logo" width="6%" title='JavaScript'/>
   <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="6%" title='Bootstrap'/>
-  <img src ="./images/react.svg" alt="react logo" width="6%" title='React'/>
+  <img src ="./images/react.svg" alt="React logo" width="6%" title='React'/>
+  <img src ="./images/angular.svg" alt="Angular logo" width="6%" title='Angular'/>
 </div>
-<hr>
+<br>
 
 ### Backend Technologies
 
@@ -38,7 +39,7 @@
   <img src ="./images/mysql.svg" alt="MySql logo" width="8%" title='MYSQL'/>
   <img src ="./images/mongodb.svg" alt="MongoBd logo" width="8%" title='MongoDB'/>
 </div>
-<hr>
+<br>
 
 ### Tools
 
@@ -48,7 +49,7 @@
   <img src ="./images/netbeans.svg" alt="Netbeans logo" width="8%" title='NetBeans'/>
   <img src ="./images/git.svg" alt="Git logo" width="8%" title='Git'/>
 </div>
-<hr>
+<br>
 <!--
 **Osnayder/Osnayder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
