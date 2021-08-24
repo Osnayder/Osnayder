@@ -28,6 +28,7 @@
   <img src ="./images/react.svg" alt="react logo" width="6%" title='React'/>
 </div>
 <hr>
+
 ### Backend Technologies
 
 <div>
@@ -38,6 +39,7 @@
   <img src ="./images/mongodb.svg" alt="MongoBd logo" width="8%" title='MongoDB'/>
 </div>
 <hr>
+
 ### Tools
 
 <div>
