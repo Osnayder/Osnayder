@@ -33,7 +33,7 @@
 
 <div>
   <img src ="./images/nodejs.svg" alt="Node logo" width="8%" title='Nodejs'/>
-  <img src ="./images/java.svg" alt="Java logo" width="8%" title='Java'/>
+  <img src ="./images/java.svg" alt="Java logo" width="6%" title='Java'/>
   <img src ="./images/express.svg" alt="Express logo" width="8%" title='Express'/>
   <img src ="./images/mysql.svg" alt="MySql logo" width="8%" title='MYSQL'/>
   <img src ="./images/mongodb.svg" alt="MongoBd logo" width="8%" title='MongoDB'/>
