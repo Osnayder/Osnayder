@@ -26,17 +26,17 @@
   <img src ="./images/javascript.svg" alt="JavaScript logo" width="6%" title='JavaScript'/>
   <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="6%" title='Bootstrap'/>
   <img src ="./images/react.svg" alt="React logo" width="6%" title='React'/>
-  <img src ="./images/angular-icon.svg" alt="Angular logo" width="6%" title='Angular'/>
+  <!--<img src ="./images/angular-icon.svg" alt="Angular logo" width="6%" title='Angular'/>-->
 </div>
 
 ### Backend Technologies
 
 <div>
-  <img src ="./images/nodejs.svg" alt="Node logo" width="8%" title='Nodejs'/>
+  <!--<img src ="./images/nodejs.svg" alt="Node logo" width="8%" title='Nodejs'/>-->
   <img src ="./images/java.svg" alt="Java logo" width="6%" title='Java'/>
-  <img src ="./images/express.svg" alt="Express logo" width="8%" title='Express'/>
+  <!--<img src ="./images/express.svg" alt="Express logo" width="8%" title='Express'/>-->
   <img src ="./images/mysql.svg" alt="MySql logo" width="8%" title='MYSQL'/>
-  <img src ="./images/mongodb.svg" alt="MongoBd logo" width="8%" title='MongoDB'/>
+  <!--<img src ="./images/mongodb.svg" alt="MongoBd logo" width="8%" title='MongoDB'/>-->
 </div>
 
 ### Tools
